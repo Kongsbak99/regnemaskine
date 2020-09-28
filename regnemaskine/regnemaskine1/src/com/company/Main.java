@@ -16,7 +16,7 @@ public class Main {
         System.out.print(" + ");
         System.out.print(b);
         System.out.print(" = ");
-        System.out.println(a + b);
+        System.out.println(a * b);
 
     }
 }
